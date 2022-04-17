@@ -1,0 +1,134 @@
+[
+	{
+		"ID": 17460,
+		"collectionID": 300,
+		"areaID": 0,
+		"totalHours": 3,
+		"estimatedHours": 3,
+		"totalDist": 5,
+		"curWeight": 219,
+		"curVolume": 2,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17461,
+		"collectionID": 301,
+		"areaID": 1,
+		"totalHours": 1,
+		"estimatedHours": 2,
+		"totalDist": 5,
+		"curWeight": 279,
+		"curVolume": 2,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17462,
+		"collectionID": 302,
+		"areaID": 2,
+		"totalHours": 1,
+		"estimatedHours": 1,
+		"totalDist": 5,
+		"curWeight": 201,
+		"curVolume": 7,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17463,
+		"collectionID": 303,
+		"areaID": 3,
+		"totalHours": 4,
+		"estimatedHours": 1,
+		"totalDist": 3,
+		"curWeight": 156,
+		"curVolume": 5,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17464,
+		"collectionID": 304,
+		"areaID": 4,
+		"totalHours": 4,
+		"estimatedHours": 1,
+		"totalDist": 3,
+		"curWeight": 283,
+		"curVolume": 7,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17465,
+		"collectionID": 305,
+		"areaID": 5,
+		"totalHours": 4,
+		"estimatedHours": 3,
+		"totalDist": 2,
+		"curWeight": 107,
+		"curVolume": 2,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17466,
+		"collectionID": 306,
+		"areaID": 6,
+		"totalHours": 3,
+		"estimatedHours": 2,
+		"totalDist": 3,
+		"curWeight": 119,
+		"curVolume": 5,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17467,
+		"collectionID": 307,
+		"areaID": 7,
+		"totalHours": 4,
+		"estimatedHours": 2,
+		"totalDist": 4,
+		"curWeight": 198,
+		"curVolume": 2,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17468,
+		"collectionID": 308,
+		"areaID": 8,
+		"totalHours": 4,
+		"estimatedHours": 1,
+		"totalDist": 3,
+		"curWeight": 158,
+		"curVolume": 4,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17469,
+		"collectionID": 309,
+		"areaID": 9,
+		"totalHours": 3,
+		"estimatedHours": 3,
+		"totalDist": 2,
+		"curWeight": 206,
+		"curVolume": 0,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17470,
+		"collectionID": 310,
+		"areaID": 10,
+		"totalHours": 2,
+		"estimatedHours": 3,
+		"totalDist": 2,
+		"curWeight": 153,
+		"curVolume": 4,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"ID": 17471,
+		"collectionID": 311,
+		"areaID": 11,
+		"totalHours": 6,
+		"estimatedHours": 2,
+		"totalDist": 2,
+		"curWeight": 291,
+		"curVolume": 6,
+		"time": "2022-04-17T07:06:50.018Z"
+	}
+]

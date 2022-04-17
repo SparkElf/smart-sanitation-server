@@ -1,0 +1,134 @@
+[
+	{
+		"ID": 8000,
+		"location": null,
+		"type": "有害垃圾箱",
+		"address": "方浜西路",
+		"damaged": false,
+		"capacity": 2,
+		"weight": 3,
+		"avgCapacity": 5,
+		"avgWeight": 2
+	},
+	{
+		"ID": 8001,
+		"location": null,
+		"type": "其他垃圾箱",
+		"address": "济南路114弄",
+		"damaged": true,
+		"capacity": 3,
+		"weight": 2,
+		"avgCapacity": 4,
+		"avgWeight": 5
+	},
+	{
+		"ID": 8002,
+		"location": null,
+		"type": "可回收垃圾箱",
+		"address": "太平桥公园",
+		"damaged": false,
+		"capacity": 3,
+		"weight": 1,
+		"avgCapacity": 4,
+		"avgWeight": 2
+	},
+	{
+		"ID": 8003,
+		"location": null,
+		"type": "可回收垃圾箱",
+		"address": "南普庆里",
+		"damaged": true,
+		"capacity": 3,
+		"weight": 1,
+		"avgCapacity": 5,
+		"avgWeight": 3
+	},
+	{
+		"ID": 8004,
+		"location": null,
+		"type": "有害垃圾箱",
+		"address": "淡水路229弄",
+		"damaged": true,
+		"capacity": 3,
+		"weight": 1,
+		"avgCapacity": 3,
+		"avgWeight": 3
+	},
+	{
+		"ID": 8005,
+		"location": null,
+		"type": "其他垃圾箱",
+		"address": "南普庆里",
+		"damaged": true,
+		"capacity": 4,
+		"weight": 2,
+		"avgCapacity": 2,
+		"avgWeight": 2
+	},
+	{
+		"ID": 8006,
+		"location": null,
+		"type": "有害垃圾箱",
+		"address": "上海交通大学",
+		"damaged": false,
+		"capacity": 4,
+		"weight": 5,
+		"avgCapacity": 3,
+		"avgWeight": 2
+	},
+	{
+		"ID": 8007,
+		"location": null,
+		"type": "其他垃圾箱",
+		"address": "徐家汇路",
+		"damaged": true,
+		"capacity": 2,
+		"weight": 4,
+		"avgCapacity": 1,
+		"avgWeight": 5
+	},
+	{
+		"ID": 8008,
+		"location": null,
+		"type": "厨余垃圾箱",
+		"address": "建国中路永里二小区",
+		"damaged": false,
+		"capacity": 1,
+		"weight": 2,
+		"avgCapacity": 1,
+		"avgWeight": 1
+	},
+	{
+		"ID": 8009,
+		"location": null,
+		"type": "其他垃圾箱",
+		"address": "上海青西郊野公园",
+		"damaged": false,
+		"capacity": 2,
+		"weight": 5,
+		"avgCapacity": 2,
+		"avgWeight": 3
+	},
+	{
+		"ID": 8010,
+		"location": null,
+		"type": "其他垃圾箱",
+		"address": "西塘互通",
+		"damaged": false,
+		"capacity": 3,
+		"weight": 4,
+		"avgCapacity": 3,
+		"avgWeight": 4
+	},
+	{
+		"ID": 8011,
+		"location": null,
+		"type": "可回收垃圾箱",
+		"address": "花米庄行景区",
+		"damaged": false,
+		"capacity": 5,
+		"weight": 5,
+		"avgCapacity": 3,
+		"avgWeight": 5
+	}
+]

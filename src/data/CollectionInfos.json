@@ -1,0 +1,122 @@
+[
+	{
+		"ID": 300,
+		"areaID": 0,
+		"cateID": 0,
+		"location": null,
+		"address": "方浜西路",
+		"damaged": 7,
+		"capacity": 5,
+		"weight": 2
+	},
+	{
+		"ID": 301,
+		"areaID": 1,
+		"cateID": 1,
+		"location": null,
+		"address": "济南路114弄",
+		"damaged": 9,
+		"capacity": 4,
+		"weight": 4
+	},
+	{
+		"ID": 302,
+		"areaID": 2,
+		"cateID": 2,
+		"location": null,
+		"address": "太平桥公园",
+		"damaged": 3,
+		"capacity": 5,
+		"weight": 4
+	},
+	{
+		"ID": 303,
+		"areaID": 3,
+		"cateID": 3,
+		"location": null,
+		"address": "南普庆里",
+		"damaged": 2,
+		"capacity": 2,
+		"weight": 5
+	},
+	{
+		"ID": 304,
+		"areaID": 4,
+		"cateID": 4,
+		"location": null,
+		"address": "淡水路229弄",
+		"damaged": 3,
+		"capacity": 1,
+		"weight": 2
+	},
+	{
+		"ID": 305,
+		"areaID": 5,
+		"cateID": 5,
+		"location": null,
+		"address": "南普庆里",
+		"damaged": 19,
+		"capacity": 2,
+		"weight": 3
+	},
+	{
+		"ID": 306,
+		"areaID": 6,
+		"cateID": 6,
+		"location": null,
+		"address": "上海交通大学",
+		"damaged": 11,
+		"capacity": 3,
+		"weight": 5
+	},
+	{
+		"ID": 307,
+		"areaID": 7,
+		"cateID": 7,
+		"location": null,
+		"address": "徐家汇路",
+		"damaged": 18,
+		"capacity": 4,
+		"weight": 4
+	},
+	{
+		"ID": 308,
+		"areaID": 8,
+		"cateID": 8,
+		"location": null,
+		"address": "建国中路永里二小区",
+		"damaged": 15,
+		"capacity": 1,
+		"weight": 5
+	},
+	{
+		"ID": 309,
+		"areaID": 9,
+		"cateID": 9,
+		"location": null,
+		"address": "上海青西郊野公园",
+		"damaged": 19,
+		"capacity": 2,
+		"weight": 1
+	},
+	{
+		"ID": 310,
+		"areaID": 10,
+		"cateID": 10,
+		"location": null,
+		"address": "西塘互通",
+		"damaged": 5,
+		"capacity": 4,
+		"weight": 4
+	},
+	{
+		"ID": 311,
+		"areaID": 11,
+		"cateID": 11,
+		"location": null,
+		"address": "花米庄行景区",
+		"damaged": 13,
+		"capacity": 3,
+		"weight": 5
+	}
+]

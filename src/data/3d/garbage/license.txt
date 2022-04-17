@@ -1,0 +1,11 @@
+Model Information:
+* title:	OutdoorGarbageBin
+* source:	https://sketchfab.com/3d-models/outdoorgarbagebin-a232fa5ab79941b1949fe76430714be4
+* author:	NOTNiA (https://sketchfab.com/NOTNiA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "OutdoorGarbageBin" (https://sketchfab.com/3d-models/outdoorgarbagebin-a232fa5ab79941b1949fe76430714be4) by NOTNiA (https://sketchfab.com/NOTNiA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

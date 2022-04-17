@@ -1,0 +1,110 @@
+[
+	{
+		"ID": 13000,
+		"phone": "13951258255",
+		"score": 1184,
+		"online": true,
+		"avgtime": 2,
+		"weigui": 5,
+		"hegui": 12
+	},
+	{
+		"ID": 13001,
+		"phone": "15672685352",
+		"score": 2796,
+		"online": true,
+		"avgtime": 4,
+		"weigui": 12,
+		"hegui": 18
+	},
+	{
+		"ID": 13002,
+		"phone": "18722552252",
+		"score": 3710,
+		"online": true,
+		"avgtime": 2,
+		"weigui": 7,
+		"hegui": 14
+	},
+	{
+		"ID": 13003,
+		"phone": "18181158522",
+		"score": 3673,
+		"online": true,
+		"avgtime": 1,
+		"weigui": 10,
+		"hegui": 13
+	},
+	{
+		"ID": 13004,
+		"phone": "15482255685",
+		"score": 2870,
+		"online": true,
+		"avgtime": 4,
+		"weigui": 12,
+		"hegui": 20
+	},
+	{
+		"ID": 13005,
+		"phone": "15482255685",
+		"score": 4072,
+		"online": true,
+		"avgtime": 1,
+		"weigui": 12,
+		"hegui": 10
+	},
+	{
+		"ID": 13006,
+		"phone": "13958637522",
+		"score": 1984,
+		"online": true,
+		"avgtime": 4,
+		"weigui": 9,
+		"hegui": 11
+	},
+	{
+		"ID": 13007,
+		"phone": "18722552252",
+		"score": 4757,
+		"online": false,
+		"avgtime": 2,
+		"weigui": 5,
+		"hegui": 17
+	},
+	{
+		"ID": 13008,
+		"phone": "13745625255",
+		"score": 4059,
+		"online": true,
+		"avgtime": 3,
+		"weigui": 8,
+		"hegui": 15
+	},
+	{
+		"ID": 13009,
+		"phone": "15672685352",
+		"score": 3528,
+		"online": false,
+		"avgtime": 2,
+		"weigui": 3,
+		"hegui": 10
+	},
+	{
+		"ID": 13010,
+		"phone": "15482255685",
+		"score": 3502,
+		"online": true,
+		"avgtime": 4,
+		"weigui": 12,
+		"hegui": 12
+	},
+	{
+		"ID": 13011,
+		"phone": "13958637522",
+		"score": 2305,
+		"online": true,
+		"avgtime": 2,
+		"weigui": 1,
+		"hegui": 16
+	}
+]

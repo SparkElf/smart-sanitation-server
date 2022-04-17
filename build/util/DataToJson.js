@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const fs_1 = require("fs");
+const DataGenerator_1 = require("./DataGenerator");
+(0, fs_1.writeFile)('./src/data/WorkerInfos.json', JSON.stringify((0, DataGenerator_1.generateWorkerInfos)(), null, "\t"), err => console.log(err));
+(0, fs_1.writeFile)('./src/data/WorkerStates.json', JSON.stringify((0, DataGenerator_1.generateWorkerStates)(), null, "\t"), err => console.log(err));
+(0, fs_1.writeFile)('./src/data/WorkStates.json', JSON.stringify((0, DataGenerator_1.generateWorkStates)(), null, "\t"), err => console.log(err));
+(0, fs_1.writeFile)('./src/data/CollectionInfos.json', JSON.stringify((0, DataGenerator_1.generateCollectionInfos)(), null, "\t"), err => console.log(err));
+(0, fs_1.writeFile)('./src/data/AreaInfos.json', JSON.stringify((0, DataGenerator_1.generateAreaInfos)(), null, "\t"), err => console.log(err));
+(0, fs_1.writeFile)('./src/data/MachineInfos.json', JSON.stringify((0, DataGenerator_1.generateMachineInfos)(), null, "\t"), err => console.log(err));
+(0, fs_1.writeFile)('./src/data/ProgramInfos.json', JSON.stringify((0, DataGenerator_1.generateProgramInfos)(), null, "\t"), err => console.log(err));

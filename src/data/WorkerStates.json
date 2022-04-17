@@ -1,0 +1,98 @@
+[
+	{
+		"location": null,
+		"count": 6,
+		"totalWeight": 85,
+		"totalVolume": 19,
+		"totalDist": 4,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 4,
+		"totalWeight": 181,
+		"totalVolume": 2,
+		"totalDist": 2,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 7,
+		"totalWeight": 166,
+		"totalVolume": 20,
+		"totalDist": 4,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 5,
+		"totalWeight": 149,
+		"totalVolume": 4,
+		"totalDist": 2,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 8,
+		"totalWeight": 63,
+		"totalVolume": 4,
+		"totalDist": 1,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 6,
+		"totalWeight": 112,
+		"totalVolume": 18,
+		"totalDist": 5,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 5,
+		"totalWeight": 176,
+		"totalVolume": 14,
+		"totalDist": 3,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 8,
+		"totalWeight": 108,
+		"totalVolume": 11,
+		"totalDist": 3,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 7,
+		"totalWeight": 154,
+		"totalVolume": 2,
+		"totalDist": 4,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 4,
+		"totalWeight": 131,
+		"totalVolume": 16,
+		"totalDist": 3,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 3,
+		"totalWeight": 14,
+		"totalVolume": 20,
+		"totalDist": 1,
+		"time": "2022-04-17T07:06:50.018Z"
+	},
+	{
+		"location": null,
+		"count": 10,
+		"totalWeight": 158,
+		"totalVolume": 2,
+		"totalDist": 3,
+		"time": "2022-04-17T07:06:50.018Z"
+	}
+]
